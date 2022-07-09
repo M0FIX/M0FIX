@@ -21,6 +21,7 @@
 [<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/7de27258571f67c8e1da03003ff8fe7e)
 [<img align="top" alt="steam" src="https://img.shields.io/badge/steam-cd486b?logo=steam&logoColor=white&style=for-the-badge"/>](https://steamcommunity.com/id/m0nixga/)
 [<img align="top" alt="M0FIX" src="https://img.shields.io/badge/mofix-1a1a1a?logo=github&logoColor=white&style=for-the-badge"/>](https://m0fix.github.io/)
+[<img align="top" alt="discord" src="https://img.shields.io/badge/discord-cd486b?logo=discord&logoColor=white&style=for-the-badge"/>](https://discord.gg/5KryY7fFhm)
 
 <ul>
 <li>I love to learn to my free time ❤</li>
