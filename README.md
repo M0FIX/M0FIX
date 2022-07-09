@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
+</p>
 <a href="https://github.com/M0FIX?tab=followers"><img src="https://img.shields.io/github/followers/M0FIX?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
 <br>
