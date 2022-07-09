@@ -1,4 +1,4 @@
-![Alt Text](https://raw.githubusercontent.com/M0FIX/M0FIX/main/nfo/nfo-2-fix.gif)
+<img src = "https://raw.githubusercontent.com/M0FIX/M0FIX/main/nfo/nfo-2-fix.gif" align ="right" width = 30% autoplay>
 <a href="https://github.com/M0FIX?tab=followers"><img src="https://img.shields.io/github/followers/M0FIX?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
 <br>
