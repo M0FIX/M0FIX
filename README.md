@@ -19,7 +19,7 @@
 
 [<img align="top" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/7e2ed52d5dfee04a8b2a5c9b53cc66bc)
 [<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/7de27258571f67c8e1da03003ff8fe7e)
-[<img align="top" alt="steam" src="https://img.shields.io/badge/steam-cd486b?logo=steam&logoColor=white&style=for-the-badge"/>](https://steamcommunity.com/id/m0nixga/)
+[<img align="top" alt="steam" src="https://img.shields.io/badge/steam-00adee?logo=steam&logoColor=white&style=for-the-badge"/>](https://steamcommunity.com/id/m0nixga/)
 [<img align="top" alt="M0FIX" src="https://img.shields.io/badge/mofix-1a1a1a?logo=github&logoColor=white&style=for-the-badge"/>](https://m0fix.github.io/)
 [<img align="top" alt="discord" src="https://img.shields.io/badge/discord-cd486b?logo=discord&logoColor=white&style=for-the-badge"/>](https://discord.gg/5KryY7fFhm)
 
