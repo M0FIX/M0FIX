@@ -1,3 +1,14 @@
+```    
+          My 2021 GitHub Skyline          
+
+         ✦                 ✦    ▁          ☽     ✦   
+ ✦                 █          ▁▄██      ✧     ✧      
+ ✧                ✦█  ▁ ▇     ████    ✦ ✧            
+  ✧   ✧   ✦  ▃     █✦ █✧█▂   ▇████ ▇▅   ▃ ✧✧     ▅   
+ ▃▁ ✧▂▅▂▅▂▃▅▁█ ✦▇  █▇▅█▃██▄███████▅██▅▂▄██▄▄▁ ▁▁✦█▂  
+▁██▅██████████▁▇█▆▇██████████████████████████▇██████▅
+
+```
 <a href="https://github.com/M0FIX?tab=followers"><img src="https://img.shields.io/github/followers/M0FIX?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
 <br>
