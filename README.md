@@ -2,7 +2,7 @@
 <br>
 <br>
 <br>
-<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com/?color=ff4d94&size=21&center=true&vCenter=true&width=650&height=100&lines=🥀+Welcome!+M0NIX+Official+For+Useless+For+All+%F0%9F%96%A4"></h3>
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?duration=6000&color=FF3A74&size=21&center=true&vCenter=true&width=650&height=100&lines=Call+ME+M0NIX!;🥀+Welcome!+M0NIX+Official+For+Useless+For+All+%F0%9F%96%A4"></h3>
 <br>
 <br>
 <br>
