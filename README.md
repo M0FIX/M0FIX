@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Call+ME+MONIX!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
-</p>
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com/?color=%ffffff&size=21&center=true&vCenter=true&width=650&height=100&lines=Call ME M0NIX!"></h3>
 <a href="https://github.com/M0FIX?tab=followers"><img src="https://img.shields.io/github/followers/M0FIX?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
 <br>
