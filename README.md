@@ -1,9 +1,9 @@
-<h3 align = "right"><img src="https://readme-typing-svg.herokuapp.com?duration=20000&color=F70061&lines=Call+ME+M0NIX!"></h3>
+<h3 align = ""><img src="https://readme-typing-svg.herokuapp.com?duration=20000&color=F70061&lines=Call+ME+M0NIX!"></h3>
 <a href="https://github.com/M0FIX?tab=followers"><img src="https://img.shields.io/github/followers/M0FIX?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
 <br>
 <br>
-<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com/?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=🥀+Welcome!+M0NIX+Official+For+Useless+For+All+%F0%9F%96%A4"></h3>
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com/?color=F70061&size=21&center=true&vCenter=true&width=650&height=100&lines=🥀+Welcome!+M0NIX+Official+For+Useless+For+All+%F0%9F%96%A4"></h3>
 <br>
 <br>
 <br>
