@@ -9,13 +9,6 @@
 <ul>
 <br>
 <div>
-<h2  > Connect ME</h2>
-[<img align="top" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100015141066687)
-</div>
-
-
-<br>
-<div>
 <h2  > Connect with me</h2>
 
 [<img align="top" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chaitanyapratapsingh)
