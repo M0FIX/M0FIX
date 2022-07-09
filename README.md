@@ -28,14 +28,14 @@ Gmail: king.monixga@gmail.com<br>
 Email: m0nixga@protonmail.com
 <ul>
 
-![monix snake gif](https://github.com/M0FIX/M0FIX/blob/main/nfo/github-contribution-grid-snake.svg)
 ```
  ██████  █████  ██      ██          ███    ███ ███████     ███    ███  ██████  ███    ██ ██ ██   ██ 
 ██      ██   ██ ██      ██          ████  ████ ██          ████  ████ ██    ██ ████   ██ ██  ██ ██  
 ██      ███████ ██      ██          ██ ████ ██ █████       ██ ████ ██ ██    ██ ██ ██  ██ ██   ███   
 ██      ██   ██ ██      ██          ██  ██  ██ ██          ██  ██  ██ ██    ██ ██  ██ ██ ██  ██ ██  
- ██████ ██   ██ ███████ ███████     ██      ██ ███████     ██      ██  ██████  ██   ████ ██ ██   ██                      
+ ██████ ██   ██ ███████ ███████     ██      ██ ███████     ██      ██  ██████  ██   ████ ██ ██   ██ 
 ```
+![monix snake gif](https://github.com/M0FIX/M0FIX/blob/main/nfo/github-contribution-grid-snake.svg)
 
 </div>
  <br>
