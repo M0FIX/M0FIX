@@ -1,4 +1,5 @@
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?duration=20000&color=F70061&lines=Call+ME+M0NIX!"></h3>
+<br>
 <a href="https://github.com/M0FIX?tab=followers"><img src="https://img.shields.io/github/followers/M0FIX?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
 <br>
