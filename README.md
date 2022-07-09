@@ -2,8 +2,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com/?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=🥀+Welcome!+M0NIX+Official+For+Useless+For+All+%F0%9F%96%A4"></h3>
 <br>
 <br>
