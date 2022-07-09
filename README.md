@@ -7,6 +7,7 @@
 ║     ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██║██╔╝ ██╗╚██████╔╝██║  ██║     ║
 ║     ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝     ║
 ╚════════════════════════════════════════════════════════════════════╝
+[2;36mAPI [2;33mFix[0m[2;36m [07/07/2022]
 ```
 <a href="https://github.com/M0FIX?tab=followers"><img src="https://img.shields.io/github/followers/M0FIX?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
