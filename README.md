@@ -8,9 +8,6 @@
 <div align = "left" width = 50%>
 <h2>Contact ME</h2>
 <ul>
-<img src ="https://drive.google.com/uc?export=view&id=1qg9c1Ek5w5ZXQjYfrSSRAxp5B6Ii-Zuf" align = "left" width = 45%>
-<div>
-<h2  > Connect with me</h2>
 
 [<img align="top" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chaitanyapratapsingh)
 <br>  
