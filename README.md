@@ -17,7 +17,3 @@
 [<img align="top" alt="blogger" src="https://img.shields.io/badge/my%20blog-FFA500?logo=blogger&logoColor=white&style=for-the-badge"/>](https://chaitanyaps.netlify.app/)
 [<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/m0nixga)
 </div>
- <br>
- <br>
-  
-## 📊 My Github Stats
