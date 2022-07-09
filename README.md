@@ -29,7 +29,6 @@
 Gmail: king.monixga@gmail.com<br>
 Email: m0nixga@protonmail.com
 <ul>
-![mishmanners snake gif](https://github.com/M0FIX/M0FIX/blob/main/nfo/github-contribution-grid-snake.svg)
 </div>
  <br>
  <br>
@@ -49,3 +48,4 @@ Email: m0nixga@protonmail.com
                            ║     ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝     ║
                            ╚════════════════════════════════════════════════════════════════════╝
 ```
+![mishmanners snake gif](https://github.com/M0FIX/M0FIX/blob/main/nfo/github-contribution-grid-snake.svg)
