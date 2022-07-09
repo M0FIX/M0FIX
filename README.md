@@ -10,7 +10,6 @@
 <br>
 <br>
 <br>
-<br>
 <img src = "https://raw.githubusercontent.com/M0FIX/M0FIX/main/nfo/nfo2.png" align ="right" width = 30%>
 <div align = "left" width = 50%>
 <ul>
