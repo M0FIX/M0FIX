@@ -23,8 +23,8 @@
 <ul>
 <li>I love to learn to my free time ❤</li>
 <br>
-Gmail king.monixga@gmail.com</li><br>
-Email m0nixga@protonmail.com</li>
+Gmail: king.monixga@gmail.com<br>
+Email: m0nixga@protonmail.com
 <ul>
   
 </div>
