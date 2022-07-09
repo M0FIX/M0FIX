@@ -6,14 +6,11 @@
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com/?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=🥀+Welcome!+M0NIX+Official+For+Useless+For+All+%F0%9F%96%A4"></h3>
 <br>
 <br>
-<br>
 <img src = "https://raw.githubusercontent.com/M0FIX/M0FIX/main/nfo/nfo2.png" align ="right" width = 30%>
 <div align = "left" width = 50%>
 <ul>
-<br>
 <div>
 <h2><img src ="https://drive.google.com/uc?export=view&id=1hdtPYtcno6Z9owg3qrWxBZ-csBM5Dy0W"width = 25> Is ME</h2>
-
 [<img align="top" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=i.here.g0t)
 [<img align="top" alt="M0FIX" src="https://img.shields.io/badge/mofix-1a1a1a?logo=github&logoColor=white&style=for-the-badge"/>](https://m0fix.github.io/)
 [<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/m0nixga)
