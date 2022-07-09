@@ -21,10 +21,8 @@
 [<img align="top" alt="M0FIX" src="https://img.shields.io/badge/mofix-1a1a1a?logo=github&logoColor=white&style=for-the-badge"/>](https://m0fix.github.io/)
 [<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/7de27258571f67c8e1da03003ff8fe7e)
 <ul>
-<li>I love to learn to code in differnt languages</li>
-<li>I am looking forward to contribute on Open Source Projects💻</li>
-<li>Ask me about <a href ="https://www.java.com/en/" target = "_blank">Java</a> </li>
-<li>📭 Reach me at my mail @chaitanyapratapsingh24@gmail.com</li>
+<li>I love to learn to my free time ❤</li>
+<li>Email m0nixga@protonmail.com</li>
 <ul>
 <br>  
 </div>
