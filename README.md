@@ -22,9 +22,9 @@
 [<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/7de27258571f67c8e1da03003ff8fe7e)
 <ul>
 <li>I love to learn to my free time ❤</li>
-Gmail king.monixga@gmail.com
-Email m0nixga@protonmail.com
-      monixga0@outlook.com
+Gmail king.monixga@gmail.com<br>  
+Email m0nixga@protonmail.com<br>  
+      monixga0@outlook.com<br>  
 <ul>
 <br>  
 </div>
