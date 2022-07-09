@@ -16,10 +16,6 @@
 <div>
 <h2  > Connect with me</h2>
 
-[<img align="top" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chaitanyapratapsingh)
-<br>  
-[<img align="top" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/16525992/chaitanya-pratap-singh)
-<br>  
 [<img align="top" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100015141066687)
 <br>  
 [<img align="top" alt="blogger" src="https://img.shields.io/badge/my%20blog-FFA500?logo=blogger&logoColor=white&style=for-the-badge"/>](https://chaitanyaps.netlify.app/)
