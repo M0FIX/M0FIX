@@ -11,14 +11,16 @@
 <br>
 <ul>
 <br>
-<div>
+
+<br>
 <h2><img src ="https://drive.google.com/uc?export=view&id=1hdtPYtcno6Z9owg3qrWxBZ-csBM5Dy0W"width = 25> Is ME</h2>
 [<img align="top" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=i.here.g0t)
 [<img align="top" alt="M0FIX" src="https://img.shields.io/badge/mofix-1a1a1a?logo=github&logoColor=white&style=for-the-badge"/>](https://m0fix.github.io/)
 [<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/m0nixga)
+<br>  
 </div>
-
-<br>
+ <br>
+ <br>
 
 <h2 style="font-size:30px" align ="left" width = 100%><u>Tools and Technologies</u></h2>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" /> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
