@@ -20,6 +20,12 @@
 [<img align="top" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/7e2ed52d5dfee04a8b2a5c9b53cc66bc)
 [<img align="top" alt="M0FIX" src="https://img.shields.io/badge/mofix-1a1a1a?logo=github&logoColor=white&style=for-the-badge"/>](https://m0fix.github.io/)
 [<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/7de27258571f67c8e1da03003ff8fe7e)
+<ul>
+<li>I love to learn to code in differnt languages</li>
+<li>I am looking forward to contribute on Open Source Projects💻</li>
+<li>Ask me about <a href ="https://www.java.com/en/" target = "_blank">Java</a> </li>
+<li>📭 Reach me at my mail @chaitanyapratapsingh24@gmail.com</li>
+<ul>
 <br>  
 </div>
  <br>
