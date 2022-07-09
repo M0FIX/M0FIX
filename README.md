@@ -8,17 +8,8 @@
 <div align = "left" width = 50%>
 <h2>Contact ME</h2>
 <ul>
-
-[<img align="top" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chaitanyapratapsingh)
-<br>  
-[<img align="top" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/16525992/chaitanya-pratap-singh)
-<br>  
-[<img align="top" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100015141066687) d292221a2b881018a361c9f4f85b2d3a
-<br>  
-[<img align="top" alt="blogger" src="https://img.shields.io/badge/my%20blog-FFA500?logo=blogger&logoColor=white&style=for-the-badge"/>](https://chaitanyaps.netlify.app/)
-<br>  
-[<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/chaitanya._24/)
-<br>  
+[<img align="top" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/i.here.g0t)
+[<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/m0nixga4/)
 </div>
 <li>FB: d292221a2b881018a361c9f4f85b2d3a</li>
 <li>IG: 9350aa3853981d522a551bfdfd2be4b5</li>
