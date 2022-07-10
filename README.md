@@ -1,22 +1,3 @@
-RED APPLE (&#x1F34E;):
-GREEN APPLE (&#x1F34F;):
-BLUE HEART (&#x1F499;):
-GREEN HEART (&#x1F49A;):
-YELLOW HEART (&#x1F49B;):
-PURPLE HEART (&#x1F49C;):
-GREEN BOOK (&#x1F4D7;):
-BLUE BOOK (&#x1F4D8;):
-ORANGE BOOK (&#x1F4D9;):
-LARGE RED CIRCLE (&#x1F534;):
-LARGE BLUE CIRCLE (&#x1F535;):
-LARGE ORANGE DIAMOND (&#x1F536;):
-LARGE BLUE DIAMOND (&#x1F537;):
-SMALL ORANGE DIAMOND (&#x1F538;):
-SMALL BLUE DIAMOND (&#x1F539;):
-UP-POINTING RED TRIANGLE (&#x1F53A;):
-DOWN-POINTING RED TRIANGLE (&#x1F53B;):
-UP-POINTING SMALL RED TRIANGLE (&#x1F53C;):
-DOWN-POINTING SMALL RED TRIANGLE (&#x1F53D;):
 <a href="https://github.com/M0FIX?tab=followers"><img src="https://img.shields.io/github/followers/M0FIX?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?duration=6000&color=FF3A74&size=21&center=true&vCenter=true&width=650&height=100&lines=🥀+Welcome!+M0NIX+Official+For+Useless+For+All+%F0%9F%96%A4;Call+ME+M0NIX!"></h3>
