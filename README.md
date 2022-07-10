@@ -7,6 +7,7 @@
 <br>
 <br>
 <img src = "https://raw.githubusercontent.com/M0FIX/M0FIX/main/nfo/nfo-v.gif" align ="right" width = 30%>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/M0FIX/M0FIX/main/nfo/nfo-v.gif">
 <div align = "left" width = 50%>
 <br>
 <ul>
