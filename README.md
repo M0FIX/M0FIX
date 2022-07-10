@@ -20,6 +20,7 @@
 
 <li>I love to learn to my free time ❤</li>
 <br>
+- Discord: 546357628486549524<br>
 - Gmail: king.monixga@gmail.com<br>
 - Email: m0nixga@protonmail.com
 
