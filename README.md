@@ -1,6 +1,6 @@
 <a href="https://github.com/M0FIX?tab=followers"><img src="https://img.shields.io/github/followers/M0FIX?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
-<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?duration=6000&color=FF3A74&size=21&center=true&vCenter=true&width=650&height=100&lines=🥀+Welcome!+M0NIX+Official+For+Useless+For+All+%F0%9F%96%A4;Call+ME+M0NIX!"></h3>
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?duration=6000&color=FF3A74&size=21&center=true&vCenter=true&width=650&height=100&lines=🥀+Welcome!+M0NIX+Official+For+Useless+For+All+%F0%9F%96%A4;🦋Call+ME+M0NIX!🦋"></h3>
 <br>
 <img src = "https://raw.githubusercontent.com/M0FIX/M0FIX/main/nfo/nfo-v.gif" align ="right" width = 30% >
 <div align = "left" width = 50%>
@@ -9,7 +9,7 @@
 
 <br>
 <div>
-<h2><img src ="https://drive.google.com/uc?export=view&id=1hdtPYtcno6Z9owg3qrWxBZ-csBM5Dy0W"width = 25> Is ME🦋</h2>
+<h2><img src ="https://drive.google.com/uc?export=view&id=1hdtPYtcno6Z9owg3qrWxBZ-csBM5Dy0W"width = 25> Is ME</h2>
 
 [<img align="top" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/7e2ed52d5dfee04a8b2a5c9b53cc66bc)
 [<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/7de27258571f67c8e1da03003ff8fe7e)
