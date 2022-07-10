@@ -27,10 +27,10 @@
 <ul>
 </div>
 <ul>
-I'm listening to:
+<br>
+<li>I'm listening to:</li>
 <ul>
 <p align="center">
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zlixinpqysgmofa68rh0x9l1h&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=zlixinpqysgmofa68rh0x9l1h&redirect=true)
 </p>
 <br>
