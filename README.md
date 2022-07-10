@@ -31,6 +31,9 @@
 
 <h3 align = "right">[ I love to learn to my free time ❤ ]</h3>
 <hr>
+
+[<img align="top" alt="spotify" src="https://img.shields.io/badge/spotify-1DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/zlixinpqysgmofa68rh0x9l1h)
+
 <h3 align = "center">
 I'm listening to
 
