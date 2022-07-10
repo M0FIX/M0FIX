@@ -18,7 +18,6 @@
 [<img align="top" alt="discord" src="https://img.shields.io/badge/discord-7289da?logo=discord&logoColor=white&style=for-the-badge"/>](https://discord.gg/5KryY7fFhm)
 
 
-<li>I love to learn to my free time ❤</li>
 <ul>
 <li>Discord : 546357628486549524<br></li>
 <li>Gmail : king.monixga@gmail.com<br></li>
@@ -27,6 +26,7 @@
 
 </div>
 <br>
+<li>I love to learn to my free time ❤</li>
 <li> I'm listening to:</li>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zlixinpqysgmofa68rh0x9l1h&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=zlixinpqysgmofa68rh0x9l1h&redirect=true)
@@ -37,7 +37,5 @@
  alt="css3"  /> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a> <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" /> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python"  /> </a> <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.shields.io/badge/Photoshop-001e36?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="PhotoShop" /> </a> <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.shields.io/badge/Illustrator-330000?&style=for-the-badge&logo=Adobe%20Illustrator&logoColor=yellow" alt="Illustrator" /> </a> <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.shields.io/badge/Premiere-00005b?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="PremierePro"  /> </a><a href="https://www.nvidia.com/" target="_blank"> <img src="https://img.shields.io/badge/Nvidia-76b900?style=for-the-badge&logo=nvidia&logoColor=white"
  alt="Nvidia"  /> </a><a href="https://www.amd.com/" target="_blank"> <img src="https://img.shields.io/badge/AMD-000000?style=for-the-badge&logo=amd&logoColor=white"
  alt="AMD"  /> </a></p>
-<a href="https://github.com/M0FIX/github-readme-stats"><img alt ="M0FIX's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M0FIX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"align ="left" width = 50% ></a>
-<a href="https://github.com/M0FIX/github-readme-stats"><img alt="M0FIX's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0FIX&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  align ="right" width = 45% ></a>
 
 ![nyancat](https://github.com/M0FIX/M0FIX/blob/main/nfo/nyancat.svg)
