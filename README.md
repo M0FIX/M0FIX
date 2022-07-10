@@ -16,7 +16,7 @@
 [<img align="top" alt="steam" src="https://img.shields.io/badge/steam-1b2838?logo=steam&logoColor=white&style=for-the-badge"/>](https://steamcommunity.com/id/m0nixga/)
 [<img align="top" alt="M0FIX" src="https://img.shields.io/badge/mofix-1a1a1a?logo=github&logoColor=white&style=for-the-badge"/>](https://m0fix.github.io/)
 [<img align="top" alt="discord" src="https://img.shields.io/badge/discord-7289da?logo=discord&logoColor=white&style=for-the-badge"/>](https://discord.gg/5KryY7fFhm)
-
+[<img align="top" alt="spotify" src="https://img.shields.io/badge/spotify-1DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/zlixinpqysgmofa68rh0x9l1h)
 
 <ul>
 <li><B>Discord :<B> 546357628486549524<br></li>
@@ -29,18 +29,16 @@
 
 </div>
 
-<h3 align = "right">[ I love to learn to my free time ❤ ]</h3>
-<hr>
+<h3 align = "center">[ I love to learn to my free time ❤ ]</h3>
 
-[<img align="top" alt="spotify" src="https://img.shields.io/badge/spotify-1DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/zlixinpqysgmofa68rh0x9l1h)
 
-<h3 align = "center">
+<h3 align = "left">
 I'm listening to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zlixinpqysgmofa68rh0x9l1h&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=zlixinpqysgmofa68rh0x9l1h&redirect=true)
 
 </h3>
-<hr>
+
 <br>
 <h2 style="font-size:30px" align ="left" width = 100%><u>Tools and Technologies</u></h2>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" /> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
