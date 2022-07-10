@@ -32,8 +32,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zlixinpqysgmofa68rh0x9l1h&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=zlixinpqysgmofa68rh0x9l1h&redirect=true)
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=zlixinpqysgmofa68rh0x9l1h&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=zlixinpqysgmofa68rh0x9l1h&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)]]
-
 </p>
 
  <br>
