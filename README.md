@@ -25,7 +25,6 @@
 - Gmail: king.monixga@gmail.com<br>
 - Email: m0nixga@protonmail.com
 <ul>
-
 </div>
 <ul>
 I'm listening to:
