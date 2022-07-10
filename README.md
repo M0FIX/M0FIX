@@ -1,4 +1,4 @@
-![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
+- ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
 <a href="https://github.com/M0FIX?tab=followers"><img src="https://img.shields.io/github/followers/M0FIX?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?duration=6000&color=FF3A74&size=21&center=true&vCenter=true&width=650&height=100&lines=🥀+Welcome!+M0NIX+Official+For+Useless+For+All+%F0%9F%96%A4;Call+ME+M0NIX!"></h3>
