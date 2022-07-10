@@ -30,10 +30,9 @@
 </div>
 
 <h3 align = "center">[ I love to learn to my free time ❤ ]</h3>
-
-
-<h3 align = "left">
-I'm listening to
+<br>
+<h3 align = "left">I'm listening to . . .</h3>
+<h3 align = "center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zlixinpqysgmofa68rh0x9l1h&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=zlixinpqysgmofa68rh0x9l1h&redirect=true)
 
