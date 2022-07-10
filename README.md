@@ -19,10 +19,11 @@
 [<img align="top" alt="spotify" src="https://img.shields.io/badge/spotify-1DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/zlixinpqysgmofa68rh0x9l1h)
 
 <ul>
-<li><B>Discord :<B> 546357628486549524<br></li>
+<li><B>Discord :</B> 546357628486549524<br></li>
 <li><B>Gmail :</B> king.monixga@gmail.com<br></li>
-<li><B>Email :<B> m0nixga@protonmail.com</li>
-<li><B>Mmail :<B> monixga0@outlook.com</li>
+<li><B>Email :</B> m0nixga@protonmail.com</li>
+<li><B>Mmail :</B> monixga0@outlook.com</li>
+<li><B>Yopmail :</B> alt.zl-bhii1zq@yopmail.com</li>
 <ul>
 
 <br>
