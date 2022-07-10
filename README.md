@@ -19,8 +19,6 @@
 
 
 <li>I love to learn to my free time ❤</li>
-<br>
-
 <ul>
 <li>Discord : 546357628486549524<br></li>
 <li>Gmail : king.monixga@gmail.com<br></li>
