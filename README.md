@@ -26,7 +26,7 @@
 
 </div>
 <br>
-<p align="centor">
+<p align="center">
 <li>I love to learn to my free time ❤</li>
 <li> I'm listening to:</li>
 
