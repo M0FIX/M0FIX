@@ -31,7 +31,7 @@
 
 </div>
 
-<h3 align = "center">[ I love to learn to my free time ❤ ]</h3>
+<h3 align = "center">[ I love to learn to my free time 💖 ]</h3>
 <br>
 <h3 align = "left">I'm listening to . . .</h3>
 <h3 align = "center">
