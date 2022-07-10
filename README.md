@@ -31,10 +31,12 @@
 
 <h3 align = "right">[ I love to learn to my free time ❤ ]</h3>
 <hr>
+<h3 align = "center">
 I'm listening to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zlixinpqysgmofa68rh0x9l1h&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=zlixinpqysgmofa68rh0x9l1h&redirect=true)
 
+</h3>
 <hr>
 <br>
 <h2 style="font-size:30px" align ="left" width = 100%><u>Tools and Technologies</u></h2>
