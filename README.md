@@ -6,7 +6,7 @@
 <br>
 <br>
 <br>
-<img src = "https://raw.githubusercontent.com/M0FIX/M0FIX/main/nfo/nfo-v.gif" align ="right" width = 30%>
+<img controls autoplay src = "https://raw.githubusercontent.com/M0FIX/M0FIX/main/nfo/nfo-v.gif" align ="right" width = 30%>
 <div align = "left" width = 50%>
 <br>
 <ul>
