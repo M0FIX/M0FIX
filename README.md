@@ -29,8 +29,8 @@
 </div>
 
 <p align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zlixinpqysgmofa68rh0x9l1h&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+### I'm listening to:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zlixinpqysgmofa68rh0x9l1h&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=zlixinpqysgmofa68rh0x9l1h&redirect=true)
 
 </p>
 
@@ -45,7 +45,3 @@
     <a href="https://github.com/M0FIX/github-readme-stats"><img alt="M0FIX's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M0FIX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/M0FIX/github-readme-stats"><img alt="M0FIX's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0FIX&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-
-### I'm listening to:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zlixinpqysgmofa68rh0x9l1h&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
