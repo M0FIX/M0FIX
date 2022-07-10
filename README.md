@@ -28,6 +28,8 @@
 - Email: m0nixga@protonmail.com
 <ul>
 
+</div>
+
 <p align="center">
 
 <table><tr><td><a href="https://www.youtube.com/watch?v=xqMSQx0swac"><img width="140px" src="https://i.ytimg.com/vi/xqMSQx0swac/mqdefault.jpg"></a></td>
@@ -35,7 +37,6 @@
 
 </p>
 
-</div>
  <br>
 
 <h2 style="font-size:30px" align ="left" width = 100%><u>Tools and Technologies</u></h2>
