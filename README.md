@@ -26,7 +26,7 @@
 
 </div>
 <br>
-<p align="center"><li>I love to learn to my free time ❤</li></p>
+<h3 align = "center"><li>I love to learn to my free time ❤</li></h3>
 <li> I'm listening to:</li>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zlixinpqysgmofa68rh0x9l1h&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=zlixinpqysgmofa68rh0x9l1h&redirect=true)
