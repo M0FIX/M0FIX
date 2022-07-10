@@ -22,6 +22,7 @@
 <li>Discord : 546357628486549524<br></li>
 <li>Gmail : king.monixga@gmail.com<br></li>
 <li>Email : m0nixga@protonmail.com</li>
+<li>Mmail : monixga0@outlook.com</li>
 <ul>
 
 </div>
