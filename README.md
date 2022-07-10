@@ -37,4 +37,4 @@
 <a href="https://github.com/M0FIX/github-readme-stats"><img alt ="M0FIX's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M0FIX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"align ="right" width = 45% ></a>
 <a href="https://github.com/M0FIX/github-readme-stats"><img alt="M0FIX's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0FIX&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  align ="left" width = 45% ></a>
 
-![nyancat](https://raw.githubusercontent.com/Gowee/nyancat-svg/main/nyancat.svg)
+![nyancat](https://github.com/M0FIX/M0FIX/blob/main/nfo/nyancat.svg)
