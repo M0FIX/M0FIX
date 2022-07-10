@@ -21,9 +21,9 @@
 <ul>
 <li><B>Discord :</B> 546357628486549524<br></li>
 <li><B>Gmail :</B> king.monixga@gmail.com<br></li>
-<li><B>Email :</B> m0nixga@protonmail.com</li>
+<li><B>Pmail :</B> m0nixga@protonmail.com</li>
 <li><B>Mmail :</B> monixga0@outlook.com</li>
-<li><B>Yopmail :</B> alt.zl-bhii1zq@yopmail.com</li>
+<li><B>Ymail :</B> alt.zl-bhii1zq@yopmail.com</li>
 <ul>
 
 <br>
