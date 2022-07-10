@@ -18,6 +18,7 @@
 [<img align="top" alt="discord" src="https://img.shields.io/badge/discord-7289da?logo=discord&logoColor=white&style=for-the-badge"/>](https://discord.gg/5KryY7fFhm)
 [<img align="top" alt="spotify" src="https://img.shields.io/badge/spotify-1DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/zlixinpqysgmofa68rh0x9l1h)
 
+<B>@More and Other . .</B>
 <ul>
 <li><B>Discord :</B> 546357628486549524<br></li>
 <li><B>Gmail :</B> king.monixga@gmail.com<br></li>
