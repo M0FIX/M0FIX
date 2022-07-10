@@ -28,6 +28,9 @@
 - Email: m0nixga@protonmail.com
 <ul>
 
+<table><tr><td><a href="https://www.youtube.com/watch?v=xqMSQx0swac"><img width="140px" src="https://i.ytimg.com/vi/xqMSQx0swac/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xqMSQx0swac">How to SHARE your Files Securly via TOR &lpar;2022&rpar;</a><br/>Jul 9, 2022</td></tr></table>
+
 </div>
  <br>
 
