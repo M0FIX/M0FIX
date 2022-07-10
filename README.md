@@ -19,12 +19,12 @@
 [<img align="top" alt="M0FIX" src="https://img.shields.io/badge/mofix-1a1a1a?logo=github&logoColor=white&style=for-the-badge"/>](https://m0fix.github.io/)
 [<img align="top" alt="discord" src="https://img.shields.io/badge/discord-7289da?logo=discord&logoColor=white&style=for-the-badge"/>](https://discord.gg/5KryY7fFhm)
 
-<ul>
+
 <li>I love to learn to my free time ❤</li>
 <br>
 - Gmail: king.monixga@gmail.com<br>
 - Email: m0nixga@protonmail.com
-<ul>
+
 </div>
 <br>
 <li> I'm listening to:</li>
