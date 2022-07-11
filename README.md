@@ -2,7 +2,7 @@
 <br>
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?duration=7000&color=FF3A74&size=21&center=true&vCenter=true&width=650&height=100&lines=🥀+Welcome!+M0NIX+Official+For+Useless+For+All+%F0%9F%96%A4;🦋+Call+ME+M0NIX!+🦋"></h3>
 <br>
-<img src = "https://raw.githubusercontent.com/M0FIX/M0FIX/main/nfo/nfo-v.gif" align ="right" width = 30% >
+<img src = "https://raw.githubusercontent.com/M0FIX/M0FIX/main/nfo/NF0.gif" align ="right" width = 30% >
 <div align = "left" width = 50%>
 <br>
 <ul>
