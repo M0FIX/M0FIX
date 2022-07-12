@@ -9,7 +9,7 @@
 
 <br>
 <div>
-<h2><img src ="https://github.githubassets.com/images/mona-whisper.gif = 25> Is @ME</h2>
+<h2><img src ="https://github.githubassets.com/images/mona-whisper.gif" = 25> Is @ME</h2>
 
 [<img align="top" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/7e2ed52d5dfee04a8b2a5c9b53cc66bc)
 [<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/7de27258571f67c8e1da03003ff8fe7e)
