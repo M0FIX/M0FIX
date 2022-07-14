@@ -12,8 +12,8 @@
 
 <h2><img src ="https://drive.google.com/uc?export=view&id=15tTT6C_iNjHegmJOtZjvzmc6zDP3c0iw"width = 25> Is @ME</h2>
 
-[<img align="top" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/7e2ed52d5dfee04a8b2a5c9b53cc66bc)
-[<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/7de27258571f67c8e1da03003ff8fe7e)
+[<img align="top" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://M0FIX.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoieWg1WnhIQTI5cTc2alh1bFpkWkxaOEp6b2tjRkZIcG95UmN1bTVZbEtKcDRkQU1Vbk9FaXovZEFMRTZ6N3JkRW9tRndXUT09IiwiaSI6ImdzenBPbXRHY3kxMDhaMGcifQ==)
+[<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://M0FIX.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNjdTTUV4bTdRUXFIMG9ScHZBSWRLZzZIVkpOaldtUHJvMVdERG8vTDIrZXR4RzZhR1RWZHFqa0phb2IxMVNRTklBND0iLCJpIjoiVERTOU1GZjhEZnZJRnJlWSJ9)
 [<img align="top" alt="steam" src="https://img.shields.io/badge/steam-1b2838?logo=steam&logoColor=white&style=for-the-badge"/>](https://steamcommunity.com/id/m0nixga/)
 [<img align="top" alt="M0FIX" src="https://img.shields.io/badge/mofix-1a1a1a?logo=github&logoColor=white&style=for-the-badge"/>](https://m0fix.github.io/)
 [<img align="top" alt="discord" src="https://img.shields.io/badge/discord-7289da?logo=discord&logoColor=white&style=for-the-badge"/>](https://discord.gg/5KryY7fFhm)
